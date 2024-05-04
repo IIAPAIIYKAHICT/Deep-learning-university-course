@@ -7,3 +7,6 @@ In this lab we had a Parameter class code, which was inspired by Andrej Karpathy
 In this lab we had to create our own MLP class using torch library, we also needed to implement data loading, transforming and training loop
 ## Lab 4
 We needed to add batchnorm and dropout parameter which is optional for each layer of the MLP from lab 3
+## Lab 5
+In this lab we needed to implement resnet architecture using Pytorch from scratch, we also needed to make 
+3 presets - resnet10, resnet18, resnet34 and then compare these models on the CIFAR10 dataset
